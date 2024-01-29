@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+   
 }
 .background{
     background-color: rgb(48, 128, 239);
@@ -10,10 +11,10 @@
     background-size: 300px;
 
 }
-.header1{
+.margine{
     width: 1000px;
     margin: auto;
-    margin-top: 30px;
+  
 }
 .logoboolean{
     width: 200px;
@@ -27,11 +28,12 @@ h1{
 }
 .fontsize{
     font-size: 20px;
+    
 }
 .fototim{
     margin-top: 20px;
 }
-.lorem{
+.lorem1{
     margin-top: 50px;
 }
 .messimportante{
@@ -40,4 +42,34 @@ h1{
 }
 .lista{
     margin-top: 50px;
+
+}
+
+table{
+    margin-top: 50px;
+    
+    border-spacing: 0;
+    
+    
+    
+}
+thead{
+    background-color: blue;
+    color: white;
+    
+}
+.coloreceleste{
+    background-color: rgb(6, 168, 193);
+    
+}
+th{
+    width: 3%;
+}
+footer{
+    font-size: 30px;
+    margin-top: 50px;
+    font-weight: 600;
+}
+.fotointeresse1{
+    background-image: url()
 }
