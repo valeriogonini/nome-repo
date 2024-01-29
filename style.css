@@ -3,16 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+.background{
+    background-color: rgb(48, 128, 239);
+    height: 100px;
+    background-image: url(./img/pattern.png);
+    background-size: 300px;
+
+}
 .header1{
     width: 1000px;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .logoboolean{
     width: 200px;
+    margin-top: 50px;
+    margin-left: 250px;
 }
 h1{
-    font-size: 50px;
+    font-size: 45px;
     margin-top: 10px;
     font-weight: 900;
 }
@@ -21,4 +30,14 @@ h1{
 }
 .fototim{
     margin-top: 20px;
+}
+.lorem{
+    margin-top: 50px;
+}
+.messimportante{
+    background-color: yellow;
+    
+}
+.lista{
+    margin-top: 50px;
 }
