@@ -70,6 +70,17 @@ footer{
     margin-top: 50px;
     font-weight: 600;
 }
-.fotointeresse1{
-    background-image: url()
+.fotomonitor{
+    background-image: url(./img/monitor.jpg);
+    color: white;
+   width: 312px;
+   height: 208px;
+   margin-top: 10px;
+}
+.fotograph{
+    background-image: url(./img/graph.jpg);
+    color: white;
+   width: 311px;
+   height: 207px;
+   margin-top: 10px;
 }
