@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header1{
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+}
+.logoboolean{
+    width: 200px;
+}
+h1{
+    font-size: 50px;
+    margin-top: 10px;
+    font-weight: 900;
+}
+.fontsize{
+    font-size: 20px;
+}
+.fototim{
+    margin-top: 20px;
+}
